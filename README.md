@@ -14,7 +14,7 @@ YouTube thumbnails are engineered to pull attention. This extension removes that
 
 
 
-What it does
+###What it does
 
 
 
